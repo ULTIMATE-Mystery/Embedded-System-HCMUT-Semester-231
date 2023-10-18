@@ -34,11 +34,11 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/Admin/.rustup/toolchains/esp/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/HCMUT_EmbeddedSystemsLAB/LAB1/hello_world/build/esp-idf/esp_system/port/cmake_install.cmake")
+  include("C:/Projects/EmbeddedSystem/Exercises/Embedded-System-HCMUT-Semester-231/Lab 1/hello_world/build/esp-idf/esp_system/port/cmake_install.cmake")
 endif()
 

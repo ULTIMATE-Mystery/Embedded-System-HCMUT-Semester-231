@@ -203,7 +203,7 @@
     "ESP_PHY_INIT_DATA_IN_PARTITION": false,
     "ESP_PHY_MAX_TX_POWER": 20,
     "ESP_PHY_MAX_WIFI_TX_POWER": 20,
-    "ESP_PHY_REDUCE_TX_POWER": true,
+    "ESP_PHY_REDUCE_TX_POWER": false,
     "ESP_PHY_RF_CAL_FULL": false,
     "ESP_PHY_RF_CAL_NONE": false,
     "ESP_PHY_RF_CAL_PARTIAL": true,

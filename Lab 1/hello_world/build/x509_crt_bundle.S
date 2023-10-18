@@ -1,4 +1,4 @@
-/* * Data converted from C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/HCMUT_EmbeddedSystemsLAB/LAB1/hello_world/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Projects/EmbeddedSystem/Exercises/Embedded-System-HCMUT-Semester-231/Lab 1/hello_world/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
