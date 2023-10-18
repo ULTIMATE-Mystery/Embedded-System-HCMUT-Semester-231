@@ -2,7 +2,7 @@
 #ifndef BUTTON_H
 #define BUTTON_H
 
-#define CONFIG_BUTTON_PIN 0
+#define CONFIG_BUTTON_PIN 25
 #define ESP_INTR_FLAG_DEFAULT 0
 #define DEBOUNCE_TIME 200  // in ms
 
